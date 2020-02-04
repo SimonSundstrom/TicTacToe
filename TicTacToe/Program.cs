@@ -23,9 +23,7 @@ namespace TicTacToe
         private int activePlayer;
         private bool gameOver;
         private int turn;
-        private string test;
-        private int hej;
-
+     
         public delegate bool ConditionHandler(int x, int y);
 
 
